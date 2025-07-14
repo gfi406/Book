@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\makaf\\Documents\\Book\\Books\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|c:\\users\\makaf\\documents\\book\\books\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|solutionrelative:books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|c:\\users\\makaf\\documents\\book\\books\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|solutionrelative:books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|c:\\users\\makaf\\documents\\book\\books\\books\\repos\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|solutionrelative:books\\repos\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|c:\\users\\makaf\\documents\\book\\books\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|solutionrelative:books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|c:\\users\\makaf\\documents\\book\\books\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|solutionrelative:books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75FA7D48-DD58-4361-BAEB-0AAD6DAAC10A}|Books\\Books.csproj|c:\\users\\makaf\\documents\\book\\books\\books\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 382,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Program.cs",
               "RelativeDocumentMoniker": "Books\\Program.cs",
@@ -43,6 +47,19 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Books\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Models\\Book.cs",
+              "RelativeToolTip": "Books\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:23:27.898Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -52,32 +69,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Repos\\BookRepository.cs",
               "RelativeDocumentMoniker": "Books\\Repos\\BookRepository.cs",
               "ToolTip": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Repos\\BookRepository.cs",
               "RelativeToolTip": "Books\\Repos\\BookRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAlwCoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwCoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T01:44:35.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Books\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Books\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:40:41.904Z"
+              "WhenOpened": "2025-07-11T01:40:41.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\makaf\\Documents\\Book\\Books\\Books\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Books\\Properties\\launchSettings.json",

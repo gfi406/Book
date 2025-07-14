@@ -12,9 +12,6 @@ namespace Books.Models
         public string Genre { get; set; }
         public string ContentXml { get; set; } = string.Empty;
 
-        //public XDocument Content => string.IsNullOrWhiteSpace(ContentXml)
-        //? new XDocument(new XElement("contents"))
-        //: XDocument.Parse(ContentXml);
-
+        
     }
 }
